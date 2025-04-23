@@ -65,10 +65,10 @@
 
 | STL file | Print spec | Purpose |
 |----------|------------|---------|
-| `clamp_shell.stl` | PET-G · 0.2 mm · 20 % | Wraps tank; holds laser, piezo, wiring |
-| `laser_cartridge.stl` | PET-G · 0.15 mm · 100 % | Snaps diode at correct standoff |
-| `piezo_saddle.stl` | PET-G · 0.2 mm | Centers & isolates piezo |
-| `light_shroud.stl` | PET-G · black · 0.2 mm | Blocks stray beam (Class-1) |
-| `alignment_jig_80mm.stl` | PLA · 0.3 mm | Ensures repeatable clamp height |
+| PET-G · 0.2 mm · 20 % | Wraps tank; holds laser, piezo, wiring |
+| PET-G · 0.15 mm · 100 % | Snaps diode at correct standoff |
+| PET-G · 0.2 mm | Centers & isolates piezo |
+| PET-G · black · 0.2 mm | Blocks stray beam (Class-1) |
+| PLA · 0.3 mm | Ensures repeatable clamp height |
 
 All parts have < 45° overhangs, so **no supports** or post-processing are needed. Total plastic mass ≈ 35 g; print time for the full set ≈ 90 minutes on any desktop FDM printer.
